@@ -6,7 +6,7 @@ I'm an aspiring **Web Developer** focused on building clean, responsive websites
 
 ## 🚀 My Projects
 
-- 🌦️ [Weather App](https://github.com/jm09/weather-app)  
+- 🌦️ [Weather App](https://github.com/jmc09/weather-app)
   A simple weather dashboard using the OpenWeather API and vanilla JS.
 
 - 📌 More coming soon – I'm actively building and learning!
